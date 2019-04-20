@@ -17,6 +17,13 @@
 5. Naivye Bayes
 6. Gradient Boosting
 
+### Model Evaluation Methods Used
+
+1. Accuracy Score
+2. ROC AUC Curve
+3. Cross Validation
+4. Confusion Matrix
+
 ## Guide Lines 
 
 ### Packages and Tools Required:
