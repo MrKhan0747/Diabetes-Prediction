@@ -19,6 +19,3 @@ jobs:
 
       - name: Run Black
         run: black .
-
-      - name: Install Requirements
-        run: pip install -r requirements.txt
